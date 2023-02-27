@@ -1,2 +1,8 @@
+<<<<<<< HEAD
  #!/bin/bash
 echo "School"
+=======
+#!/bin/bash
+ echo "School"
+
+>>>>>>> 5f024142b6bea4aeb921b5ea60798a17df2145a1
